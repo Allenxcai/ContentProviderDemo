@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ContentProviderDemo</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string-array name="MenuType">
+        <item>时令</item>
+        <item>凉菜</item>
+        <item>面食</item>
+        <item>创意菜</item>
+        <item>汤</item>
+        <item>蒸菜</item>
+        <item>小吃</item>
+        <item>海鲜</item>
+    </string-array>
+</resources>
